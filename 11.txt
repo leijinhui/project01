@@ -1,5 +1,8 @@
 LJDf
+<<<<<<< Updated upstream
 jklfdj
 ifjdak
 joifdaj
 jklfjd
+=======
+>>>>>>> Stashed changes
